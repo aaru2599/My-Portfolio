@@ -285,7 +285,7 @@ img {
 }
 
 .home_social::after {
-    content: '';
+   
     width: 32px;
     height: 2px;
     background-color: hsl(250, 65%, 74%);
