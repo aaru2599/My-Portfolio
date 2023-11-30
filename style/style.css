@@ -313,10 +313,7 @@ img {
     background-color: transparent
 }
 
-.button:hover {
-    color: #fff;
-    background-color: 2px solid #000
-}
+
 
 .button--ghost {
     border: 2px solid #9f91e7;
@@ -328,7 +325,10 @@ img {
     color: #000;
     font-weight: 500
 }
-
+.about-btn:hover {
+    border: 2px solid #9f91e7;
+    color: #9f91e7;
+}
 .about_box,
 .col .box,
 .skills_content {
