@@ -144,24 +144,7 @@ img {
 }
 
 /*------------------------------------------------- Header -----------------------------------------------*/
-.header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: hsl(237, 48%, 11%);
-    z-index: 100;
 
-}
-
-.nav {
-    height: 3.5rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-
-}
 
 .nav_logo {
     font-size: 2rem;
@@ -171,7 +154,7 @@ img {
 }
 
 .nav_logo:hover {
-    color: hsl(248, 65%, 71%);
+    color: hsl(245, 35%, 93%);
 }
 
 .nav_menu {
