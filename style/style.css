@@ -4,6 +4,12 @@ body {
     padding: 0;
     font-family: 'Josefin Sans', sans-serif;
 }
+.skills_data img{
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+    border-radius: 25px;
+}
 
 .home_scroll i,
 .nav p {
